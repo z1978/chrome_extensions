@@ -1,0 +1,23 @@
+http://clients2.google.com/service/update2/crx?response=redirect&x=id%3Daknpkdffaafgjchaibgeefbgmgeghloj%26uc%26lang%3Den-US&prod=chrome
+
+Tunnello - Unblock websites and secure your browsing 
+
+Tunnello is a simple & beautiful Chromes extension that can protect you and allow you to access to any website & web service around the world. Get your tunnel, browse privately & access to any website in a second!
+Tunnello is 10x faster than a VPN and 10x more secure than a proxy. Tunnello for Chrome is an incredibly simple browser extension that can help you:
+ 
+  - Unblock any websites
+  - Avoid or reduce the ability to track you
+  - Secure your browser on public WiFi
+  - Zero configuration
+  - One-tap activation
+
+Plus, guess what !?! Tunnel is free. Test it, you will adopt it.
+
+Have you ever encountered issues watching a video on Youtube, Netflix or a TV channel because of region restriction? Or simply having websites blocked because of internet censorship?
+Tunnello is here to help you! In one click unblock all your navigation but it’s not all, with Tunnello your are also protected because your connection will be completely encrypted. Tunnello for Google Chrome is a light-weight browser extension.
+
+Browse in peace with Tunnello 
+
+About Tunnello
+
+Tunnello is the join-venture between the famous french VPN’ leader and a new technical team. We succeeded to mix the security of the VPN with the speed of the proxy in order to create Tunnello. Fast, simple, secure, don’t hesitate, Try it!
