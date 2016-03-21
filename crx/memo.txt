@@ -1,3 +1,6 @@
+Chrome商店Crx离线安装包下载
+http://yurl.sinaapp.com/crx.php
+
 http://clients2.google.com/service/update2/crx?response=redirect&x=id%3Daknpkdffaafgjchaibgeefbgmgeghloj%26uc%26lang%3Den-US&prod=chrome
 
 Tunnello - Unblock websites and secure your browsing 
